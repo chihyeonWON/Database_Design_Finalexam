@@ -44,3 +44,7 @@ Horizontal subset
 
 ## 디비전
 ![image](https://github.com/chihyeonWON/Database_Design_Finalexam/assets/58906858/a1088651-8f96-4ffc-9f29-8c982c1749c7)
+```
+릴레이션의 속성 값의 집합으로 연산을 수행함
+형식 R / S
+```
