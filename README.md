@@ -16,6 +16,9 @@
 동등 조인의 결과 릴레이션에서 조인 애트리뷰트를 제외한 조인 (중복 필드 제거)
 ```
 
+## 집계함수 종류
+![image](https://github.com/chihyeonWON/Database_Design_Finalexam/assets/58906858/8677ebff-e7e8-43f7-8c99-41b336dd7460)
+
 ## 외부 조인
 ![image](https://github.com/chihyeonWON/Database_Design_Finalexam/assets/58906858/84015d74-8e7d-4a92-9802-03a57c7d4896)
 
